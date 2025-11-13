@@ -25,7 +25,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="tel:+358401234567"
+              href="tel:+358405212363"
               className="inline-flex items-center justify-center gap-2 bg-accent text-accent-foreground px-8 py-4 rounded-lg font-bold hover:opacity-90 transition text-lg"
             >
               <span>Varaa tarkastus</span>
