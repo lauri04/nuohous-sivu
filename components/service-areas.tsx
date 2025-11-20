@@ -2,11 +2,8 @@ import { MapPin } from "lucide-react"
 
 const areas = [
   { city: "Kauhava", region: "Pääpalvelukaupunki" },
-  { city: "Lapua", region: "Palvelukaupunki" },
-  { city: "Lappajärvi", region: "Palvelukaupunki" },
-  { city: "Alavus", region: "Lähialue" },
-  { city: "Töysä", region: "Lähialue" },
-  { city: "Kuortane", region: "Lähialue" },
+  { city: "Kortesjärvi", region: "Lähialue" },
+  { city: "Lapua", region: "Lähialue" },
 ]
 
 export default function ServiceAreas() {

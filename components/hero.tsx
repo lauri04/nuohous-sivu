@@ -28,7 +28,7 @@ export default function Hero() {
               href="tel:+358405212363"
               className="inline-flex items-center justify-center gap-2 bg-accent text-accent-foreground px-8 py-4 rounded-lg font-bold hover:opacity-90 transition text-lg"
             >
-              <span>Varaa tarkastus</span>
+              <span>Varaa nuohousaika</span>
               <ArrowRight className="w-5 h-5" />
             </a>
             <a

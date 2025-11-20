@@ -16,17 +16,12 @@ export default function Footer() {
                   Nuohouspalvelu
                 </a>
               </li>
-              <li>
-                <a href="#services" className="hover:text-accent transition">
-                  IV-Puhdistus
-                </a>
-              </li>
-              <li>
-                <a href="#services" className="hover:text-accent transition">
-                  IV-Mittaus ja säätö
-                </a>
-              </li>
             </ul>
+          </div>
+
+          <div>
+            <h3 className="font-bold text-lg mb-4">Nuohouspalvelu Hautala</h3>
+            <p className="text-sm text-primary-foreground/80">Ammattimainen nuohouspalvelu Etelä-Pohjanmaalla.</p>
           </div>
 
           <div>

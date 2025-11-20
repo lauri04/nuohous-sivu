@@ -1,4 +1,4 @@
-import { Phone, MessageCircle } from "lucide-react"
+import { Phone, MessageCircle, Mail } from "lucide-react"
 
 export default function Contact() {
   return (
@@ -32,6 +32,21 @@ export default function Contact() {
                   <h3 className="font-bold mb-1">Whatsapp</h3>
                   <a href="https://wa.me/358405212363" className="text-muted-foreground hover:text-accent transition">
                     Voimme sopia ajan Whatsapissa!
+                  </a>
+                </div>
+              </div>
+
+              <div className="flex flex-col items-center gap-4">
+                <div className="w-12 h-12 bg-accent/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                  <Mail className="w-6 h-6 text-accent" />
+                </div>
+                <div>
+                  <h3 className="font-bold mb-1">Sähköposti</h3>
+                  <a
+                    href="mailto:heikki.hautala@netikka.fi"
+                    className="text-muted-foreground hover:text-accent transition"
+                  >
+                    heikki.hautala@netikka.fi
                   </a>
                 </div>
               </div>
